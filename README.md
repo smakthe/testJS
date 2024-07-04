@@ -1,0 +1,1 @@
+A quadrilateral is defined as a shape four sides. A rectange is a quadrilateral where opposite sides are equal. A square is a reactangle where all four sides are equal. Perimeter is the length of the borders of the shape. Area is the area covered by the shape.
